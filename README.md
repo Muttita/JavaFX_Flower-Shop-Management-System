@@ -9,7 +9,7 @@ Welcome to the **Flower Shop Management System** repository! This system is deve
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Additional Documentation](#AdditionalDocumentation)
+- [Additional Documentation](#additional-documentation)
 - [License](#license)
 
 ## About
